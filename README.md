@@ -15,6 +15,11 @@ Most recent conference talks:
 
 Conference Slides on [grabnerandi slideshare](https://www.slideshare.net/grabnerandi/presentations)
 
+## Demos on GitHub
+
+- [Platform Engineering Demo](https://github.com/dynatrace-perfclinics/platform-engineering-demo)
+- [ArgoCon 2024 Talk Demo with Keptn](https://github.com/grabnerandi/argocd-keptn-demo)
+
 ## Dynatrace related content
 
 All my Dynatrace Video Content on YouTube:
