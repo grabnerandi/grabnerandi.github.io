@@ -30,6 +30,7 @@ All my Dynatrace Video Content on YouTube:
 - [Dynatrace Whats New Monthly](https://bit.ly/dtwhatsnew)
 
 ## To connect with me
+- GitHub: [@grabnerandi](https://github.com/grabnerandi)
 - Twitter: [@grabnerandi](https://twitter.com/grabnerandi)
 - LinkedIn: [Andreas Grabner](https://www.linkedin.com/in/grabnerandi/)
 - Work at [Dynatrace](https://www.dynatrace.com)
