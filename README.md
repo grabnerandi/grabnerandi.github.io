@@ -7,7 +7,7 @@ And I host a podcast with my colleague Brian Wilson called [PurePerformance](htt
 ## Recent Thoughtleadership content
 
 Most recent conference talks:
-- [KubeCon NA 2024: How we made OpenTelemetry be our Fitness Tracker](https://www.youtube.com/watch?v=IRNyf_MLHDw)
+- [KubeCon NA 2024: How we made OpenTelemetry be our Fitness Tracker for CI/CD](https://www.youtube.com/watch?v=IRNyf_MLHDw)
 - [KubeCon NA 2024: Observability Day: How we streamlined our SDLC with Observability](https://www.youtube.com/watch?v=9iRWng2XTR4)
 - [Platform Engineering Meetup Vienna - June 2024: Successful Platform Engineering - Hype vs Reality](https://github.com/grabnerandi/grabnerandi.github.io/blob/main/presentations/PlatformEngineering_VIE_SuccessfulPlatformEngineering_June2024.pdf)
 - [PlatformCon 2024: The Observability Difference](https://www.youtube.com/watch?v=2jcGj_FTF78)
