@@ -11,7 +11,7 @@ Most recent conference talks:
 - [KubeCon NA 2024: Observability Day: How we streamlined our SDLC with Observability](https://www.youtube.com/watch?v=9iRWng2XTR4)
 - [Platform Engineering Meetup Vienna - June 2024: Successful Platform Engineering - Hype vs Reality](https://github.com/grabnerandi/grabnerandi.github.io/blob/main/presentations/PlatformEngineering_VIE_SuccessfulPlatformEngineering_June2024.pdf)
 - [PlatformCon 2024: The Observability Difference](https://www.youtube.com/watch?v=2jcGj_FTF78)
-- [KCD Zurich 2024: Successful Platform Engineering (Video to be available soon)](https://www.youtube.com/@KCDZH/videos)
+- [KCD Zurich 2024: Successful Platform Engineering (Video to be available soon)](https://www.youtube.com/watch?v=CLGrm4eFBoo)
 - [KCD Munich 2023: Platform Engineering Opportunity: Why, MVP, Community and Measuring Success with Observability](https://www.youtube.com/watch?v=5WDuVUFvELY)
 - [WTFisSRE 2023:Don’t GitOps into a Blackhole: Use SLOs and Get DORA a the K8s Native Way](https://www.youtube.com/watch?v=zeEC0475SOU)
 
