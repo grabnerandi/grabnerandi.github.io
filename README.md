@@ -1,10 +1,14 @@
 # This is about me: Andreas (Andi) Grabner
 
 I am a CNCF Ambassador with a passion for Observability, DevOps, SRE, Platform & Performance Engineering.
+I co-authored [Platform Engineering for Architects - Crafting Modern Platforms as a Product](https://www.amazon.com/Platform-Engineering-Architects-Crafting-platforms-ebook/dp/B0DH5DJFTH)
 I am also a DevRel at Dynatrace advocating for building better software by following an "Observability Driven Engineering" approach.
 And I host a podcast with my colleague Brian Wilson called [PurePerformance](https://www.spreaker.com/show/pureperformance) - you can also connect with us on the [PurePerformance LinkedIn Page](https://www.linkedin.com/company/pureperformance)
 
 ## Recent Thoughtleadership content
+
+Books:
+- [Co-Authored Platform Engineering for Architects](https://www.amazon.com/Platform-Engineering-Architects-Crafting-platforms-ebook/dp/B0DH5DJFTH)
 
 Most recent conference talks:
 - [KubeCon NA 2024: How we made OpenTelemetry be our Fitness Tracker for CI/CD](https://www.youtube.com/watch?v=IRNyf_MLHDw)
